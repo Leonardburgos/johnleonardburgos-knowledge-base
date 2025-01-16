@@ -525,3 +525,5 @@ Run the project using:
 ```bash
 npm run dev
 ```
+## Download Template
+You can download the template from this [GitHub repository](https://github.com/Leonardburgos/leonardburgos-dashboardMUI-react).
