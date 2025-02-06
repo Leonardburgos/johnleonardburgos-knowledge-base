@@ -96,8 +96,7 @@ Configure Tailwind CSS
 1. Install Tailwind CSS:
 
 ```bash
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init
+npm install tailwindcss@3.4.17 postcss@8.4.49 autoprefixer
 ```
 
 2. Update `tailwind.config.js`:

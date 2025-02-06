@@ -40,8 +40,7 @@ In `pages` create the following subfolders:
 Run the following commands to install the required dependencies:
 
 ```bash
-npm install @mui/material @emotion/react @emotion/styled
-npm install @mui/icons-material
+npm install -D tailwindcss@3.4.17 postcss@8.4.49 autoprefixer
 ```
 
 Add a file Router.tsx in the src folder.
